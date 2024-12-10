@@ -1,7 +1,7 @@
 <template>
     <div class="grid grid-cols-2">
         <div>
-            <img src="~/assets/images/avt-1.png" alt="Image Avatar"
+            <img src="~/assets/images/avt-2.png" alt="Image Avatar"
                 class="w-2/5 object-cover rounded-lg mb-4 transition-transform duration-300 hover:scale-105">
 
         </div>
