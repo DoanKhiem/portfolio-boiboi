@@ -25,12 +25,25 @@
                     <p class="text-white">(+84) 905146898</p>
                 </div>
             </div>
+            <div class="mt-2">
+                <div class="bg-primary inline-flex rounded-full px-5 py-1">
+                    <img class="w-[26px] mr-2" src="~/assets/images/phone.png" alt="Icon Email">
+                    <p class="text-white">Phu Yen, Vietnam</p>
+                </div>
+            </div>
+            <div class="mt-2">
+                <div class="bg-primary inline-flex rounded-full px-5 py-1">
+                    <img class="w-[26px] mr-2" src="~/assets/images/phone.png" alt="Icon Email">
+                    <p class="text-white">22th, June, 2007</p>
+                </div>
+            </div>
         </div>
         <div>
             <img src="~/assets/images/avt-1.png" alt="Image Avatar"
                     class="w-2/5 object-cover rounded-lg mb-4 transition-transform duration-300 hover:scale-105">
         </div>
     </div>
+    <About />
 </template>
 
 <script setup lang="ts">

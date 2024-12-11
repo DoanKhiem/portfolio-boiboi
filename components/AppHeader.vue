@@ -5,13 +5,13 @@
                 <NuxtLink to="/" class="text-white hover:text-gray-400">Home</NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/about" class="text-white hover:text-gray-400">About Me</NuxtLink>
+                <NuxtLink to="/resume" class="text-white hover:text-gray-400">My Resume</NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/resume" class="text-white hover:text-gray-400">Resume</NuxtLink>
+                <NuxtLink to="/projects" class="text-white hover:text-gray-400">Projects</NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/education" class="text-white hover:text-gray-400">Education</NuxtLink>
+                <NuxtLink to="/boxes" class="text-white hover:text-gray-400">Healing Boxes</NuxtLink>
             </li>
 
         </ul>

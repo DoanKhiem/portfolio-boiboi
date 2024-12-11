@@ -39,6 +39,9 @@
             </div>
         </div>
     </div>
+    <Education />
+    <Awards />
+    <Experiences />
 </template>
 
 <script setup lang="ts">
