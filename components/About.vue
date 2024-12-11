@@ -31,7 +31,7 @@
             </div>
         </div>
         <div>
-            <img src="~/assets/images/avt-1.png" alt="Image Avatar"
+            <img src="~/assets/images/avt-3.png" alt="Image Avatar"
                 class="w-2/5 object-cover rounded-lg mb-4 transition-transform duration-300 hover:scale-105">
             <div class="">
                 <h2 class="pacifico-regular-font px-10 py-5 inline-block text-4xl bg-primary text-white rounded-full">Boi Boi Truong</h2>
