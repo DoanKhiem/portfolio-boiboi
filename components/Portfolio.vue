@@ -43,7 +43,7 @@
             </div>
             <div class="mt-5 md:mt-0">
                 <img src="~/assets/images/avt-1.png" alt="Image Avatar"
-                    class="w-full object-cover rounded-lg transition-transform duration-300 hover:scale-105">
+                    class="w-full object-cover transition-transform duration-300 hover:scale-105">
             </div>
         </div>
         <!-- <div class="md:col-span-2 relative bg-primary">
