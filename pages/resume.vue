@@ -13,27 +13,27 @@
                 </div>
                 <div class="md:col-span-3">
                     <div class="grid grid-cols-2 gap-8 md:px-10 mt-5">
-                        <div class="text-center text-3xl bg-[#954b58] py-3">
+                        <div class="text-center text-xl md:text-3xl bg-[#954b58] py-3">
                             <p>5</p>
                             <p>Projects</p>
                         </div>
-                        <div class="text-center text-3xl bg-[#954b58] py-3">
+                        <div class="text-center text-xl md:text-3xl bg-[#954b58] py-3">
                             <p>8.9</p>
                             <p>GPA</p>
                         </div>
-                        <div class="text-center text-3xl bg-[#954b58] py-3">
+                        <div class="text-center text-xl md:text-3xl bg-[#954b58] py-3">
                             <p>4</p>
                             <p>Events</p>
                         </div>
-                        <div class="text-center text-3xl bg-[#954b58] py-3">
+                        <div class="text-center text-xl md:text-3xl bg-[#954b58] py-3">
                             <p>10,000</p>
                             <p>Supporters</p>
                         </div>
-                        <div class="text-center text-3xl bg-[#954b58] py-3">
+                        <div class="text-center text-xl md:text-3xl bg-[#954b58] py-3">
                             <p>15,400,00</p>
                             <p>Money Rasing</p>
                         </div>
-                        <div class="text-center text-3xl bg-[#954b58] py-3">
+                        <div class="text-center text-xl md:text-3xl bg-[#954b58] py-3">
                             <p>150</p>
                             <p>Members</p>
                         </div>

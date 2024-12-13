@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase text-center mt-5">Education</h1>
+    <h1 class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase text-center my-5">Education</h1>
     <!-- <div class="grid grid-cols-2">
         <div>
             <h2 class="pacifico-regular-font px-10 py-5 inline-block text-4xl bg-primary text-white rounded-full">2022 - Present</h2>
