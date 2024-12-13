@@ -62,7 +62,7 @@
                         </time>
                     </div>
                     <!-- Title -->
-                    <div class="text-slate-500 ml-14 mt-3 md: mt-0">
+                    <div class="text-slate-500 ml-14 mt-3 md:mt-0">
                         <span class="text-slate-900 font-bold text-xl">D Free Learning</span>
                         <br> Head of Instagram
                     </div>
@@ -99,7 +99,7 @@
                         </time>
                     </div>
                     <!-- Title -->
-                    <div class="text-slate-500 ml-14 mt-3 md: mt-0">
+                    <div class="text-slate-500 ml-14 mt-3 md:mt-0">
                         <span class="text-slate-900 font-bold text-xl">CAM_Ngo Gia Tu Commercial Art Music Club</span>
                         <br>Founder and Club President
                     </div>
@@ -146,7 +146,7 @@
                         </time>
                     </div>
                     <!-- Title -->
-                    <div class="text-slate-500 ml-14 mt-3 md: mt-0">
+                    <div class="text-slate-500 ml-14 mt-3 md:mt-0">
                         <span class="text-slate-900 font-bold text-xl">Youth Empowerment Model United Nations (YE-MUN)</span>
                         <br>Member of Marketing Department
                     </div>
@@ -190,7 +190,7 @@
                         </time>
                     </div>
                     <!-- Title -->
-                    <div class="text-slate-500 ml-14 mt-3 md: mt-0">
+                    <div class="text-slate-500 ml-14 mt-3 md:mt-0">
                         <span class="text-slate-900 font-bold text-xl">The Couriers</span>
                         <br>Member of Events
                     </div>
@@ -238,7 +238,7 @@
                         </time>
                     </div>
                     <!-- Title -->
-                    <div class="text-slate-500 ml-14 mt-3 md: mt-0">
+                    <div class="text-slate-500 ml-14 mt-3 md:mt-0">
                         <span class="text-slate-900 font-bold text-xl">Bup Sen Hong National Festival</span>
                         <br>Member of Events
                     </div>
@@ -280,7 +280,7 @@
                         </time>
                     </div>
                     <!-- Title -->
-                    <div class="text-slate-500 ml-14 mt-3 md: mt-0">
+                    <div class="text-slate-500 ml-14 mt-3 md:mt-0">
                         <span class="text-slate-900 font-bold text-xl">Flag-Raising Ceremony - Tien Phong Newspaper</span>
                         <br>Block 4 Leader
                     </div>
@@ -301,6 +301,48 @@
                         <li>Lead a team at the Tien Phong newspaper flag raising ceremony in 2024 to form the shape of Vietnam,
                             working closely with experienced journalists to promote national pride.</li>
                         <li>Promoted tourism and people in the homeland.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Item #8 -->
+            <div class="relative">
+                <div class="md:flex items-center md:space-x-4 mb-3">
+                    <div class="flex items-center space-x-4 md:space-x-2 md:space-x-reverse">
+                        <!-- Icon -->
+                        <div
+                            class="flex items-center justify-center w-5 h-5 rounded-full bg-[#d7a947] shadow md:order-1">
+                            <!-- <svg class="fill-[#d7a947]" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+                            <path d="M8 0a8 8 0 1 0 8 8 8.009 8.009 0 0 0-8-8Zm0 12a4 4 0 1 1 0-8 4 4 0 0 1 0 8Z" />
+                        </svg> -->
+                        </div>
+                        <!-- Date -->
+                        <time class="font-caveat font-medium text-xl text-white text-end md:w-72">
+                            <h1 class="bg-primary rounded-full px-5 py-1 inline">August 2024 - Present</h1>
+                        </time>
+                    </div>
+                    <!-- Title -->
+                    <div class="text-slate-500 ml-14 mt-3 md:mt-0">
+                        <span class="text-slate-900 font-bold text-xl">Xanh Thien Nguyen</span>
+                        <br>Head of Content
+                    </div>
+                </div>
+                <!-- Card -->
+                <!-- <div
+                    class="bg-white p-4 rounded border border-slate-200 text-slate-500 shadow ml-14 md:ml-[350px] mb-2">
+                    Lead a team at the Tien Phong newspaper flag raising ceremony in 2024 to form the shape of Vietnam,
+                    working closely with experienced journalists to promote national pride.
+                </div>
+                <div
+                    class="bg-white p-4 rounded border border-slate-200 text-slate-500 shadow ml-14 md:ml-[350px] mb-2">
+                    Promoted tourism and people in the homeland.
+                </div> -->
+
+                <div class="ml-14 md:ml-[350px]">
+                    <ul class="list-disc text-xl leading-10 italic">
+                        <li>Organizing waste collection sessions with local people at beaches in Phu Yen through the "Action for the environment" campaign.</li>
+                        <li>Planning content, ideas, timeline for volunteer activities to help children in mountainous areas and difficult circumstances.</li>
+                        <li>Planning events, music nights to raise funds for charity.</li>
                     </ul>
                 </div>
             </div>
