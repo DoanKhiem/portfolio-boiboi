@@ -1,13 +1,19 @@
 <template>
     <div class="max-w-6xl mx-auto py-5 px-4 md:px-0">
-        <div class="bg-primary border-4 rounded-[40px] p-5 border-[#d7a947] text-white">
-            <h2 class=" abril-fatface-regular-font text-5xl md:text-6xl uppercase text-center mb-5">HEALING BOXES</h2>
+        <div class="p-5 text-white">
+            <h2 class=" abril-fatface-regular-font text-5xl md:text-6xl uppercase text-primary text-center mb-5">HEALING
+                BOXES</h2>
 
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-5">
-                <div v-for="item in arrayBoxs" :key="item.id" class="">
-                    <div @click="openModal(item.id)" class="rounded-xl bg-[#d7a947] p-5 text-center cursor-pointer">
-                        <img class="transition-transform duration-300 hover:scale-105" src="~/assets/images/gift-card.png" alt="">
-                        <h1 class="md:text-xl text-black font-bold truncate" >{{ item.title }}</h1>
+            <div class="grid grid-cols-2 md:grid-cols-3 gap-5">
+                <div v-for="item in arrayBoxs" :key="item.id" class="flex">
+                    <div @click="openModal(item.id)"
+                        class="rounded-2xl text-primary bg-[#f9f6dc] border-8 border-primary p-5 text-center cursor-pointer w-full">
+                        <!-- <img class="transition-transform duration-300 hover:scale-105" src="~/assets/images/gift-card.png" alt=""> -->
+                        <h1 class="abril-fatface-regular-font text-2xl md:text-2xl">Box #{{ item.id }}</h1>
+                        <div class="bg-primary h-[2px]"></div>
+                        <h1 class="md:text-xl font-bold">/{{ item.title }}/</h1>
+                        <!-- <div class="bg-primary w-[90%] h-[2px] absolute top-[77px]"></div>
+                        <div class="bg-primary w-[90%] h-[2px] absolute top-[107px]"></div> -->
                     </div>
                 </div>
             </div>
@@ -32,9 +38,11 @@
                     </g>
                 </svg>
             </button>
-            <img class="w-24 mx-auto transition-transform duration-300 hover:scale-105" src="~/assets/images/gift-card.png" alt="">
+            <img class="w-24 mx-auto transition-transform duration-300 hover:scale-105"
+                src="~/assets/images/gift-card.png" alt="">
             <h1 class="text-xl text-primary font-bold text-center my-3">/ {{ box.title }} /</h1>
-            <h1 class="text-lg font-bold text-center font-dancing drop-shadow-lg ">From: {{ box.from }} <span v-if="box.from_position">({{ box.from_position }})</span></h1>
+            <h1 class="text-lg font-bold text-center font-dancing drop-shadow-lg ">From: {{ box.from }} <span
+                    v-if="box.from_position">({{ box.from_position }})</span></h1>
             <p class="my-5" v-html="box.content"></p>
 
         </div>
