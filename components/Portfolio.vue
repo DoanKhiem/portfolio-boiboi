@@ -2,14 +2,14 @@
     <div class="max-w-6xl mx-auto py-5 px-4 md:px-0 gap-10">
         <div class="grid md:grid-cols-2 grid-cols-1 relative border-2 rounded-3xl mt-5 border-[#d7a947] p-5 md:col-span-3">
             <div class="">
-                <img src="~/assets/images/three-dot.png" alt="Image Avatar" class="w-16 md:w-32 absolute -top-2 md:-top-4 right-10 md:right-20">
+                <img src="~/assets/images/three-dot.png" alt="Image Avatar" class="w-16 md:w-32 absolute -top-2 md:-top-4 right-8 md:right-20">
                 <h2
-                    class="absolute -top-5 left-6 md:left-32 px-10 pacifico-regular-font text-xl md:text-3xl border-2 rounded-full border-primary bg-white">
+                    class="absolute -top-4 left-6 md:left-32 px-10 pacifico-regular-font text-xl md:text-3xl border-2 rounded-full border-primary bg-white">
                     Boi Boi Truong</h2>
                 <h1 class="text-primary abril-fatface-regular-font text-8xl md:text-9xl">Port</h1>
                 <h1 class="abril-fatface-regular-font text-8xl md:text-9xl">Folio</h1>
                 <div class="mt-2">
-                    <span class="crimson-pro-font border-2 rounded-full px-4 border-primary text-3xl md:text-4xl">Communication
+                    <span class="crimson-pro-font border-2 rounded-full px-4 border-primary text-2xl md:text-4xl">Communication
                         Portfolio</span>
                 </div>
                 <div class="mt-5">

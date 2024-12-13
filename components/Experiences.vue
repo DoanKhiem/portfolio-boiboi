@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase text-center mt-5">EXPERIENCES</h1>
+    <h1 class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase text-center my-5">EXPERIENCES</h1>
 
 
     <div
