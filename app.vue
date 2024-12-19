@@ -9,6 +9,19 @@
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.cinzel-decorative-font {
+	font-family: "Cinzel Decorative", serif;
+	/* font-weight: 400; */
+	font-style: normal;
+}
+
+.merriweather-font {
+	font-family: "Merriweather", serif;
+	/* font-weight: 400; */
+	font-style: normal;
+}
 
 .abril-fatface-regular-font {
 	font-family: "Abril Fatface", serif;

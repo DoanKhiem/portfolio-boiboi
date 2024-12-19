@@ -3,6 +3,7 @@
         <div class="grid md:grid-cols-2 grid-cols-1 relative border-2 rounded-3xl mt-5 border-[#d7a947] p-5 md:col-span-3">
             <div class="">
                 <img src="~/assets/images/three-dot.png" alt="Image Avatar" class="w-16 md:w-32 absolute -top-2 md:-top-4 right-8 md:right-20">
+                <img src="~/assets/images/star-red.png" alt="Image Avatar" class="w-8 md:w-16 absolute top-24 md:top-28 -left-4 md:-left-8">
                 <h2
                     class="absolute -top-4 left-6 md:left-32 px-10 pacifico-regular-font text-xl md:text-3xl border-2 rounded-full border-primary bg-white">
                     Boi Boi Truong</h2>
@@ -41,7 +42,8 @@
                     </div>
                 </div>
             </div>
-            <div class="mt-5 md:mt-0">
+            <div class="mt-5 md:mt-0 relative">
+                <img src="~/assets/images/star-red.png" alt="Image Avatar" class="w-8 md:w-16 absolute top-48 md:top-80 -left-4 md:-left-4 z-10">
                 <img src="~/assets/images/avt-1.png" alt="Image Avatar"
                     class="w-full object-cover transition-transform duration-300 hover:scale-105">
             </div>

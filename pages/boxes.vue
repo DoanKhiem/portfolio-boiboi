@@ -9,9 +9,9 @@
                     <div @click="openModal(item.id)"
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-8 border-primary p-5 text-center cursor-pointer w-full">
                         <!-- <img class="transition-transform duration-300 hover:scale-105" src="~/assets/images/gift-card.png" alt=""> -->
-                        <h1 class="abril-fatface-regular-font text-2xl md:text-2xl">Box #{{ item.id }}</h1>
+                        <h1 class="cinzel-decorative-font font-bold text-2xl md:text-2xl">Box #{{ item.id }}</h1>
                         <div class="bg-primary h-[2px]"></div>
-                        <h1 class="md:text-xl font-bold">/{{ item.title }}/</h1>
+                        <h1 class="md:text-xl font-extrabold merriweather-font">/{{ item.title }}/</h1>
                         <!-- <div class="bg-primary w-[90%] h-[2px] absolute top-[77px]"></div>
                         <div class="bg-primary w-[90%] h-[2px] absolute top-[107px]"></div> -->
                     </div>
