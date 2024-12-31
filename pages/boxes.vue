@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-6xl mx-auto py-5 px-4 md:px-0">
+    <div class=" mx-auto py-5 px-4 md:px-0">
         <div class="p-5 text-white">
             <h2 class=" abril-fatface-regular-font text-5xl md:text-6xl uppercase text-primary text-center mb-5">HEALING
                 BOXES</h2>

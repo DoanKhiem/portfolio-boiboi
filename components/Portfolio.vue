@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-6xl mx-auto py-5 px-4 md:px-0 gap-10">
+    <div class=" mx-auto py-5 px-4 md:px-0 gap-10">
         <div class="grid md:grid-cols-2 grid-cols-1 relative border-2 rounded-3xl mt-5 border-[#d7a947] p-5 md:col-span-3">
             <div class="">
                 <img src="~/assets/images/three-dot.png" alt="Image Avatar" class="w-16 md:w-32 absolute -top-2 md:-top-4 right-8 md:right-20">
