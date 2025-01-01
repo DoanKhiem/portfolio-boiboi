@@ -1,5 +1,5 @@
 <template>
-    <div class=" mx-auto py-5 px-4 md:px-0">
+    <div class="mx-auto py-5 px-4">
         <div class="bg-primary border-4 rounded-[40px] border-[#d7a947] text-white">
             <h2 class="abril-fatface-regular-font text-5xl md:text-6xl uppercase text-center mt-5">My Resume</h2>
             <div class="relative z-20 mt-5">

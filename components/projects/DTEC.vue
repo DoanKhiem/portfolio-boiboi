@@ -1,29 +1,24 @@
 <template>
-    <div class="text-white px-5 mb-10">
+    <div class="text-white mb-10">
         <div class="flex mt-10 items-center">
-            <img src="~/assets/images/projects/DTEC/logo.jpg" alt="" class="w-24 rounded-full">
+            <img src="~/assets/images/projects/DTEC/logo.jpg" alt="" class="w-16 md:w-24 rounded-full">
             <div class="ml-5">
-                <h1 class="abril-fatface-regular-font text-5xl">The Duy Tan English Club (DTEC)</h1>
+                <h1 class="abril-fatface-regular-font text-4xl md:text-5xl">The Duy Tan English Club (DTEC)</h1>
                 <p class="mt-2 text-lg">
-                    <a href="https://www.facebook.com/duytanenglishclubofficial" target="_blank">Visit
-                        here</a>
-                    <RightOutlined class="ml-2" />
+                    <a href="https://www.facebook.com/duytanenglishclubofficial" target="_blank"
+                        class="inline-flex items-center">
+                        Visit here
+                        <RightOutlined class="text-base ml-1" />
+                    </a>
                 </p>
             </div>
         </div>
-        <div class="grid grid-cols-5 text-xl mt-5">
-            <div class="col-span-2">
-                <img src="~/assets/images/projects/DTEC/18.jpg" alt="" class="pr-5 mb-5">
-
-                <!-- <video controls class="pr-5" autoplay>
-
-                                <source src="~/assets/images/projects/DTEC/vid2.mp4" type="video/mp4" />
-
-                               
-                            </video> -->
-                <img src="~/assets/images/projects/DTEC/15.jpg" alt="" class="pr-5">
+        <div class="grid md:grid-cols-5 text-xl mt-5">
+            <div class="md:col-span-2 order-2 md:order-1">
+                <img src="~/assets/images/projects/DTEC/18.jpg" alt="" class="md:pr-5 mb-5">
+                <img src="~/assets/images/projects/DTEC/15.jpg" alt="" class="md:pr-5">
             </div>
-            <div class="col-span-3">
+            <div class="md:col-span-3 order-1 md:order-2">
                 <div class="">
                     <h2 class="font-bold">Description:</h2>
                     <p>The Duy Tan English Club (DTEC) is a vibrant community where students come together to explore,
@@ -61,11 +56,10 @@
                     <p>- Interacted with participants, sponsors, and other attendees to ensure a positive experience.
                     </p>
                 </div>
-                <div>
+                <div class="mb-5 md:mb-0">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
-                        <h1 class="cinzel-decorative-font font-bold text-xl">See More</h1>
-
+                        <h1 class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></h1>
                     </div>
                 </div>
             </div>
