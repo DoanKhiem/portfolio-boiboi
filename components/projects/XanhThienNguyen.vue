@@ -1,22 +1,24 @@
 <template>
-    <div class="text-white px-5 mb-10">
+    <div class="text-white mb-10">
         <div class="flex mt-10 items-center">
-            <img src="~/assets/images/projects/XanhThienNguyen/logo.jpg" alt="" class="w-24 rounded-full">
+            <img src="~/assets/images/projects/XanhThienNguyen/logo.jpg" alt="" class="w-16 md:w-24 rounded-full">
             <div class="ml-5">
-                <h1 class="abril-fatface-regular-font text-5xl">Xanh Thiện Nguyện</h1>
+                <h1 class="abril-fatface-regular-font text-4xl md:text-5xl">Xanh Thiện Nguyện</h1>
                 <p class="mt-2 text-lg">
-                    <a href="https://www.facebook.com/profile.php?id=61564482212954" target="_blank">Visit
-                        here</a>
-                    <RightOutlined class="ml-2" />
+                    <a href="https://www.facebook.com/profile.php?id=61564482212954" target="_blank"
+                        class="inline-flex items-center">
+                        Visit here
+                        <RightOutlined class="text-base ml-1" />
+                    </a>
                 </p>
             </div>
         </div>
-        <div class="grid grid-cols-5 text-xl mt-5">
-            <div class="col-span-2">
-                <img src="~/assets/images/projects/XanhThienNguyen/1.jpg" alt="" class="pr-5 mb-5">
-                <img src="~/assets/images/projects/XanhThienNguyen/4.jpg" alt="" class="pr-5">
+        <div class="grid md:grid-cols-5 text-xl mt-5">
+            <div class="md:col-span-2 order-2 md:order-1">
+                <img src="~/assets/images/projects/XanhThienNguyen/1.jpg" alt="" class="md:pr-5 mb-5">
+                <img src="~/assets/images/projects/XanhThienNguyen/4.jpg" alt="" class="md:pr-5">
             </div>
-            <div class="col-span-3">
+            <div class="md:col-span-3 order-1 md:order-2">
                 <div class="">
                     <h2 class="font-bold">Description:</h2>
                     <p><b>Xanh Thiện Nguyện Project</b> is a charity organization established by young people in Phu
@@ -57,11 +59,10 @@
                         organization’s brand identity over time.
                     </p>
                 </div>
-                <div>
+                <div class="mb-5 md:mb-0">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
-                        <h1 class="cinzel-decorative-font font-bold text-xl">See More</h1>
-
+                        <h1 class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></h1>
                     </div>
                 </div>
             </div>
