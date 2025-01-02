@@ -72,7 +72,7 @@
             </div>
 
             <div class="grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-5 mt-10">
-                <img class="col-span-1 order-2 md:order-1" src="~/assets/images/projects/LittleReportersClub/2.jpg"
+                <img class="col-span-1 order-2 md:order-1" src="~/assets/images/projects/LittleReportersClub/22.jpg"
                     alt="">
                 <p class="col-span-2 md:col-span-1 order-1 md:order-2">
                     On the evening of July 6th, the Little Reporters Club was present at April 1 Square to "engage in
@@ -84,7 +84,7 @@
                     The Little Reporters Club is honored to be guided by the Youth Activity Center and to independently
                     gather news during this event.
                 </p>
-                <img class="col-span-1 order-3 md:order-3" src="~/assets/images/projects/LittleReportersClub/3.jpg"
+                <img class="col-span-1 order-3 md:order-3" src="~/assets/images/projects/LittleReportersClub/33.jpg"
                     alt="">
             </div>
             
