@@ -62,7 +62,7 @@
                 <div class="mb-5 md:mb-0">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
-                        <h1 class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></h1>
+                        <NuxtLink to="/project-detail/XanhThienNguyen" class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></NuxtLink>
                     </div>
                 </div>
             </div>

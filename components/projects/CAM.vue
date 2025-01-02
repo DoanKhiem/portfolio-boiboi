@@ -79,7 +79,7 @@
             <div class="md:col-span-2">
                 <img src="~/assets/images/projects/CAM/SuKienDongKhongLanh/8.jpg" alt="" class="md:pl-5 mb-5">
 
-                <video controls class="md:pl-5" autoplay>
+                <video controls class="md:pl-5">
                     <!-- <source src="/media/cc0-videos/flower.webm" type="video/webm" /> -->
 
                     <source src="~/assets/images/projects/CAM/SuKienDongKhongLanh/vid1.mp4" type="video/mp4" />

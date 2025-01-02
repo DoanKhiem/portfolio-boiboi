@@ -3,24 +3,31 @@
         <div class="bg-[#fff5f0cf] p-5 rounded-xl mt-5 text-xl">
             <div class="grid md:grid-cols-3">
                 <p class="col-span-1">
-                    <b>Dong Khong Lanh</b> <br>
-                    On 8th and 9th December, “Dong Khong Lanh”- a fundraising event that has been
-                    cherished for a long time
-                    with the desire to spread “winter warmth” to everyone and together create truly worthwhile moments
-                    was
-                    held, where teenagers can buy environmentally friendly handmade products and enjoy an acoustic music
-                    night. Through the event, we wanted to convey a message about spreading love and warmth to people
-                    around
-                    us more; love has the unimaginable power, it saves humans from a savage life.
+                    On November 3rd, Xanh Thiện Nguyện and the Compassion Journey Club (Le Trung Kien High School - Dong
+                    Hoa) carried out a beach clean-up and tree planting activity at Phu Tho Fishing Village, Dong Hoa.
+                    This meaningful action by Xanh Thiện Nguyện and Compassion Journey was honored to be recorded and
+                    broadcast on the national television channel VTV1.
                 </p>
-                <video controls class="md:pl-5 col-span-2 mt-2 md:mt-0">
-                    <source src="~/assets/images/projects/CAM/SuKienDongKhongLanh/vid1.mp4" type="video/mp4" />
-                </video>
+                <!-- <video controls class="md:pl-5 col-span-2 mt-2 md:mt-0" autoplay>
+                    <source src="~/assets/images/projects/XanhThienNguyen/vid1.mp4" type="video/mp4" />
+                </video> -->
             </div>
             <p class="mt-10 text-center">
-                As a leader of the project, I was so relieved that the event went according to plan. We were able to
-                provide everyone with the satisfaction that they had come to expect from the event this year. Here are
-                some moments from the evening.
+                The activity takes place every day, every week, with Xanh and local volunteers participating in cleaning
+                the beaches in the area. People come from different places, of all ages, but they arrive early to work
+                together in cleaning the beach, creating a truly green environment with great trust and spirit. Not only
+                stopping at cleaning the beach, the group also planted coastal protection trees at locations where they
+                had been planted before (such as sea almond trees and cacti), bringing hope for the future of the
+                coastal ecosystem.🌱
+            </p>
+            <p class="mt-10 text-center">
+                Xanh is deeply grateful and appreciative of everyone. By acting together, showing unity, support, and
+                sharing practical values, they have made a meaningful impact on the people in the land of Phu, under the
+                peaceful sky of Yen
+            </p>
+            <p class="mt-10 text-center">
+                Bringing the message of kindness closer to everyone is the way Xanh is carrying out its mission.
+                Protecting ourselves to create the life we dream of, let's go with Xanh.
             </p>
             <div class="grid md:grid-cols-3 grid-cols-2 gap-1 md:gap-5 mt-5">
                 <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/1.jpg" alt="">
