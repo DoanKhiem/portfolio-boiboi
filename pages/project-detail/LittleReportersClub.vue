@@ -11,7 +11,7 @@
             </p>
             <div class="grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-5 mt-10">
                 <img class="col-span-1 order-2 md:order-1"
-                    src="~/assets/images/projects/LittleReportersClub/LienHoanCLB/1.jpg" alt="">
+                    src="~/assets/images/projects/LittleReportersClub/LienHoanCLB/3.jpg" alt="">
                 <p class="col-span-2 md:col-span-1 order-1 md:order-2">
                     The Phu Yen Province Club - Team - Group Festival was a meaningful day, bringing together over 100
                     students to participate in bonding activities. The morning featured dynamic games such as group flag
