@@ -30,7 +30,7 @@
                             <p>Supporters</p>
                         </div>
                         <div class="text-center text-3xl md:text-5xl bg-[#954b58] py-5">
-                            <p>15,400,00</p>
+                            <p>15,400,000</p>
                             <p>Money Rasing</p>
                         </div>
                         <div class="text-center text-3xl md:text-5xl bg-[#954b58] py-5">
