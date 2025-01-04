@@ -175,6 +175,33 @@ In the afternoon, when everyone started preparing the event, I saw you helping i
         content: `My name is Anh Nguyen Nu Hoang, and I am a freshman at the University of Kansas, USA, where I was awarded a $48,000 scholarship for my four-year undergraduate program. I have had the privilege of working alongside Boi Boi on various community projects and extracurricular activities, and she has consistently impressed me with her leadership, creativity, and dedication. As the president of her school’s organization, she excels at uniting people and fostering collaboration to achieve common goals.<br/> <div class="h-5"></div>
 What I love most about Boi Boi is her passion for communication and her long-held dream of studying in the United States. She constantly seeks opportunities to enhance her skills, both professionally and personally, through relentless learning and self-improvement. One memorable instance was when she led a project under unexpected circumstances and, through her resourcefulness and composure, turned it into a resounding success. I am confident that Boi Boi will make an outstanding contribution to any academic or professional environment.`,
     },
+    {
+        id: 15,
+        title: 'A message from lord of deadlines',
+        from: '',
+        from_position: '',
+        content: `First of all, Huy feels very lucky to have worked with Pội during DTEC GEN 1. Although the time working together wasn’t very long, Huy found many impressive qualities in Pội. In terms of personality, Pội is a sweet, friendly, and wise friend who always smiles and never gives up. As for her working style, Pội is highly self-disciplined and consistently completes her assigned tasks with meticulous care and thoroughness. In addition, she has extensive experience as a volunteer in various events and has reaped great rewards from those efforts. Wishing Pội everything except hardships ❤️‍🔥`,
+    },
+    {
+        id: 16,
+        title: 'You’re wonderful',
+        from: 'Van Anh',
+        from_position: 'Head of Marketing department of YE-MUN',
+        content: `Dear Bội Bội, <br/> <div class="h-5"></div>
+        Through the times we participated in activities and community projects together, I’ve been deeply impressed by your sense of responsibility, enthusiasm, and dedication. You not only excel at completing your own tasks but also embrace challenges and consistently spread positivity to those around you. <br/> <div class="h-5"></div>
+        With your perseverance and determined attitude toward work, I firmly believe that your continuous efforts will take you even further, allowing you to achieve many remarkable accomplishments in the future. Wishing you good health and success in reaching your dreams.<br/> <div class="h-5"></div>
+        Warm regards!`,
+    },
+    {
+        id: 17,
+        title: 'The Light of Passion and Dedication',
+        from: '',
+        from_position: '',
+        content: `Although I haven’t known you, Boi, for very long and haven’t had many chances to interact with you outside of the time we were in the UNICEF council together at YE-MUN, I truly admire you for so many things!!! My first impression (just from seeing you on social media before actually meeting you) was that you are super energetic, participating in so many extracurricular activities and competitions both inside and outside of school (and always achieving high results =))). I couldn’t help but wonder how someone can manage their time so well to excel in both academics and extracurriculars.<br/> <div class="h-5"></div>
+        What I respect even more about you are the volunteer activities you take part in because I can see that you genuinely want to spread happiness to society. That’s something I really want to do too, but I haven’t had the chance to try yet, huhuu. The times I’ve met you in person can be counted on one hand, but they’ve all been super fun memories.<br/> <div class="h-5"></div>
+        During YE-MUN, I could see your passion and determination through every speech and debate you had with other delegates. You stood strong to defend your bloc’s viewpoint, and honestly, I was so impressed that I got goosebumps!!! That’s how serious you are during meetings, but in real life, you’re so friendly and cheerful, which made our end-of-event party a blast hehe 😋.<br/> <div class="h-5"></div>
+        By the way, I wish your projects great success, and I hope all the amazing things you deserve will come your way, Boi Boi. Best wishes ❤`,
+    },
 ]
 </script>
 
