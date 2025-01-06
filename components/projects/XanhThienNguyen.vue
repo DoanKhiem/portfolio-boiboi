@@ -3,7 +3,7 @@
         <div class="flex mt-10 items-center">
             <img src="~/assets/images/projects/XanhThienNguyen/logo.jpg" alt="" class="w-16 md:w-24 rounded-full">
             <div class="ml-5">
-                <h1 class="abril-fatface-regular-font text-4xl md:text-5xl">Xanh Thiện Nguyện</h1>
+                <h1 class="abril-fatface-regular-font text-4xl md:text-5xl">Xanh Thien Nguyen</h1>
                 <p class="mt-2 text-lg">
                     <a href="https://www.facebook.com/profile.php?id=61564482212954" target="_blank"
                         class="inline-flex items-center">
@@ -21,14 +21,14 @@
             <div class="md:col-span-3 order-1 md:order-2">
                 <div class="">
                     <h2 class="font-bold">Description:</h2>
-                    <p><b>Xanh Thiện Nguyện Project</b> is a charity organization established by young people in Phu
+                    <p><b>Xanh Thien Nguyen Project</b> is a charity organization established by young people in Phu
                         Yen. The
                         primary activities of the organization focus on environmental protection and community support.
                         One of their main initiatives is organizing beach clean-ups at popular tourist beaches in Phu
                         Yen, helping to preserve the natural beauty of the region and raise awareness about
                         environmental issues. Additionally, the project organizes charitable trips to provide support
                         for children in remote mountainous areas, offering educational materials, supplies, and
-                        organizing fun activities to brighten their lives. Through these actions, Xanh Thiện Nguyện
+                        organizing fun activities to brighten their lives. Through these actions, Xanh Thien Nguyen
                         Project aims to promote kindness, environmental responsibility, and a spirit of giving within
                         the local community.</p>
                 </div>

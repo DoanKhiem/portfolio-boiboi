@@ -2,15 +2,15 @@
     <div class="mx-auto py-5 px-4">
         <div class="bg-[#fff5f0cf] p-5 rounded-xl mt-5 text-xl">
             <div class="grid md:grid-cols-3">
-                <p class="col-span-1">
-                    On November 3rd, Xanh Thiện Nguyện and the Compassion Journey Club (Le Trung Kien High School - Dong
+                <p class="md:col-span-1">
+                    On November 3rd, Xanh Thien Nguyen and the Compassion Journey Club (Le Trung Kien High School - Dong
                     Hoa) carried out a beach clean-up and tree planting activity at Phu Tho Fishing Village, Dong Hoa.
-                    This meaningful action by Xanh Thiện Nguyện and Compassion Journey was honored to be recorded and
+                    This meaningful action by Xanh Thien Nguyen and Compassion Journey was honored to be recorded and
                     broadcast on the national television channel VTV1.
                 </p>
-                <!-- <video controls class="md:pl-5 col-span-2 mt-2 md:mt-0" autoplay>
-                    <source src="~/assets/images/projects/XanhThienNguyen/vid1.mp4" type="video/mp4" />
-                </video> -->
+                <video controls class="md:pl-5 md:col-span-2 mt-2 md:mt-0" autoplay>
+                    <source src="~/assets/images/projects/XanhThienNguyen/NhatRac/vid1.mp4" type="video/mp4" />
+                </video>
             </div>
             <p class="mt-10 text-center">
                 The activity takes place every day, every week, with Xanh and local volunteers participating in cleaning
@@ -25,92 +25,91 @@
                 sharing practical values, they have made a meaningful impact on the people in the land of Phu, under the
                 peaceful sky of Yen
             </p>
+            <div class="grid md:grid-cols-3 grid-cols-2 gap-1 md:gap-5 mt-5">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/NhatRac/1.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/NhatRac/2.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/NhatRac/3.jpg" alt="">
+                <img class="col-span-1 md:hidden" src="~/assets/images/projects/XanhThienNguyen/NhatRac/4.jpg" alt="">
+            </div>
             <p class="mt-10 text-center">
                 Bringing the message of kindness closer to everyone is the way Xanh is carrying out its mission.
                 Protecting ourselves to create the life we dream of, let's go with Xanh.
             </p>
-            <div class="grid md:grid-cols-3 grid-cols-2 gap-1 md:gap-5 mt-5">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/1.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/2.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/3.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/4.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/6.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/14.jpg" alt="">
-            </div>
+
             <p class="mt-10 text-center">
-                The event ended with a number of 80 orders and 7 million VND sponsorships, surpassing our target
+                Song Hinh - Phu Yen📍
+                <br>
+                The trip left Xanh with countless moments of coming together to do good deeds, bringing valuable
+                contributions to the local community.
+                <br>
+                On this trip, we had the opportunity to visit children in difficult circumstances in a mountainous
+                district of Phu Yen. We made recycled lanterns by hand to give to the children here, hoping they would
+                have a warm and meaningful Mid-Autumn Festival. In addition, we also cooked a delicious meal for the
+                children using fresh ingredients, and held many stimulating games for children there.
             </p>
+
             <div class="grid  md:grid-cols-3 grid-cols-2 gap-1 md:gap-5 mt-5">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/7.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/12.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/SuKienDongKhongLanh/15.jpg" alt="">
-                <img class="col-span-1 md:hidden" src="~/assets/images/projects/CAM/SuKienDongKhongLanh/13.jpg" alt="">
+                <img class="col-span-1" src="~/assets/images/projects/XanhThienNguyen/TrungThu/14.jpg" alt="">
+                <img class="col-span-1" src="~/assets/images/projects/XanhThienNguyen/TrungThu/3.jpg" alt="">
+                <img class="col-span-1" src="~/assets/images/projects/XanhThienNguyen/TrungThu/6.jpg" alt="">
+                <img class="col-span-1" src="~/assets/images/projects/XanhThienNguyen/TrungThu/7.jpg" alt="">
+                <img class="col-span-1" src="~/assets/images/projects/XanhThienNguyen/TrungThu/12.jpg" alt="">
+                <img class="col-span-1" src="~/assets/images/projects/XanhThienNguyen/TrungThu/15.jpg" alt="">
             </div>
 
 
             <div class="grid md:grid-cols-3 gap-5 mt-10">
-                <p class="md:col-span-2">
-                    <b>Trung Thu Cho Em</b><br>
-                    With the desire to create a warm and joyful Mid-Autumn Festival for the children, warmth that comes
-                    not
-                    only from the lovely lanterns and packets of cakes and candies but also from the heartfelt effort to
-                    create a playground filled with laughter, helping them cherish the most wonderful memories of the
-                    festival night. With these aspirations, CAM collaborated with Xanh Camping to organize an event
-                    where
-                    the children could play freely and enjoy an unforgettable Mid-Autumn night.
-                    <img class="mt-2" src="~/assets/images/projects/CAM/TrungThuChoEm/9.jpg" alt="">
+                <p class="md:col-span-1">
+                    We received a lot of love from the children, and also received enthusiastic support from the local
+                    officials, which helped us successfully organize such a meaningful event. At the end of the day, we
+                    even had a campfire, where we shared our thoughts and feelings about this journey.
                 </p>
-                <img class="md:col-span-1 " src="~/assets/images/projects/CAM/TrungThuChoEm/8.jpg" alt="">
+                <video controls class="md:pl-5 md:col-span-1 mt-2 md:mt-0">
+                    <source src="~/assets/images/projects/XanhThienNguyen/TrungThu/vid2.mp4" type="video/mp4" />
+                </video>
+                <video controls class="md:pl-5 md:col-span-1 mt-2 md:mt-0">
+                    <source src="~/assets/images/projects/XanhThienNguyen/TrungThu/vid3.mp4" type="video/mp4" />
+                </video>
             </div>
 
             <p class="mt-10 text-center">
-                With a total of more than 30 members and 20 volunteers, we were able to get the event well-prepared.
+                In the chilly atmosphere of winter, the concert "Dong Khong Lanh" brought a warm flame that warmed the
+                hearts of hundreds of attendees. Held on December 7th, 2024, at Gozo Coffee, the event was not only a
+                musical performance but also a bridge that connected the community, coming together to support Mai am
+                Chua Hai Sơn in Song Cau Town.
+                <br>
+                At this event, we successfully organized an acoustic live show to raise funds. In addition, we sold
+                handmade products such as woolen teddy bears, velvet Christmas trees, and delicate bracelets, all
+                crafted with care and skill. We also featured eco-friendly products, including sustainable skincare
+                items made from fresh cactus extracts, provided by our sponsor, Organic Nopal Vietnam Joint Stock
+                Company.
             </p>
             <div class="grid  md:grid-cols-3 grid-cols-2 gap-1 md:gap-5 mt-5">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/TrungThuChoEm/1.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/TrungThuChoEm/5.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/TrungThuChoEm/7.jpg" alt="">
-                <img class="col-span-1 md:hidden" src="~/assets/images/projects/CAM/TrungThuChoEm/10.jpg" alt="">
-            </div>
-
-
-            <div class="grid md:grid-cols-3 gap-5 mt-10">
-                <p class="col-span-1 ">We were so fortunate because we got support from local sponsors and partners, who
-                    always tried their
-                    best to make 'Trung Thu Cho Em' a successful event.
-                    <br>
-                    Additionally, thanks to all the volunteers who dynamically took part in the activities. We were glad
-                    that we got positive feedback from local authority, and all the children there
-                </p>
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/TrungThuChoEm/3.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/TrungThuChoEm/6.jpg" alt="">
-            </div>
-
-            <div class="grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-5 mt-10">
-                <img class="col-span-1 order-2 md:order-1" src="~/assets/images/projects/CAM/XuanTinhNguyen/6.jpg"
-                    alt="">
-                <p class="col-span-2 md:col-span-1 order-1 md:order-2">
-                    <b>Xuan Thien Nguyen</b> <br>
-                    During the time we participated in previous events, we had the opportunity to learn about these
-                    extraordinary individuals. They are the ones who, despite challenges, quietly and selflessly
-                    dedicate themselves to society. This has made us truly appreciate and feel grateful to them,
-                    inspiring us to embrace this project with the hope of sharing a bit of our compassion and bringing
-                    them a warm and joyful Lunar New Year.
-                </p>
-                <img class="col-span-1 order-3 md:order-3" src="~/assets/images/projects/CAM/XuanTinhNguyen/4.jpg"
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/14.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/15.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/16.jpg" alt="">
+                <img class="col-span-1 md:hidden" src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/17.jpg"
                     alt="">
             </div>
+
 
             <p class="mt-10 text-center">
-                Through this event, we not only gave but also received something truly special in return. It was the
-                joyful smiles, the tearful eyes filled with surprise, and the heartfelt words of gratitude, blessings,
-                and warm, happy stories shared with us.
+                The fundraising concert "Dong Khong Lanh - Tinh Nguoi Suoi Am" held on December 7th was a great success.
+                The organizing committee would like to express our deepest gratitude to our generous sponsors,
+                benefactors, and nearly 150 attendees who were present, followed, and supported our music night.
+                <br>
+                The success of the "Dong Khong Lanh" concert is a clear testament to the power of unity and mutual
+                support. The entire amount of money raised will be used to support charitable activities at Mai am Chua
+                Hai Son in Song Cau Town at the beginning of 2025, helping bring a little love to the children at the
+                temple.
             </p>
             <div class="grid md:grid-cols-3 grid-cols-2 gap-1 md:gap-5 mt-5">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/XuanTinhNguyen/1.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/XuanTinhNguyen/2.jpg" alt="">
-                <img class="col-span-1 " src="~/assets/images/projects/CAM/XuanTinhNguyen/5.jpg" alt="">
-                <img class="col-span-1 md:hidden" src="~/assets/images/projects/CAM/XuanTinhNguyen/3.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/3.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/6.jpg" alt="">
+                <img class="col-span-1 hidden md:block" src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/7.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/5.jpg" alt="">
+                <img class="col-span-1 " src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/8.jpg" alt="">
+                <img class="col-span-1 hidden md:block" src="~/assets/images/projects/XanhThienNguyen/DongKhongLanh/9.jpg" alt="">
             </div>
         </div>
     </div>
