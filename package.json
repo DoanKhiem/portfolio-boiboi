@@ -13,6 +13,7 @@
     "@ant-design-vue/nuxt": "^1.4.6",
     "ant-design-vue": "^4.2.6",
     "nuxt": "^3.14.1592",
+    "nuxt-aos": "^1.2.5",
     "vue": "latest",
     "vue-router": "latest"
   },

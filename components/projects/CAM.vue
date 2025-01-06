@@ -3,7 +3,7 @@
         <div class="flex mt-10 items-center">
             <img src="~/assets/images/projects/CAM/logo_cam.jpg" alt="" class="w-16 md:w-24 rounded-full">
             <div class="ml-5">
-                <h1 class="abril-fatface-regular-font text-4xl md:text-5xl">Commercial Art Music (CAM)</h1>
+                <h1 data-aos="flip-up" class="abril-fatface-regular-font text-4xl md:text-5xl">Commercial Art Music (CAM)</h1>
                 <p class="mt-2 text-lg">
                     <a href="https://www.facebook.com/profile.php?id=61551254325891" target="_blank"
                         class="inline-flex items-center">
@@ -15,7 +15,7 @@
         </div>
         <div class="grid md:grid-cols-5 text-xl mt-5">
             <div class="md:col-span-3">
-                <div class="">
+                <div class="" data-aos="fade-down">
                     <h2 class="font-bold">Description:</h2>
                     <p>CAM - Ngo Gia Tu Commercial Art Music, the first club founded on September 23, 2023
                         in
@@ -35,7 +35,7 @@
                         ideas take flight
                         and everyone shines in their own way."</p>
                 </div>
-                <div class="mt-5">
+                <div class="mt-5" data-aos="fade-down">
                     <h2 class="font-bold">Achievements:</h2>
                     <p>- Attracted 200 participants and more than 150 volunteers in total to the events
                         “Dong
@@ -57,7 +57,7 @@
                         positive impacts on the community.
                     </p>
                 </div>
-                <div class="mt-5">
+                <div class="mt-5" data-aos="fade-down">
                     <h2 class="font-bold">My role:</h2>
                     <p>- Oversaw the planning and implementation of key events, initiatives and projects,
                         ensuring they align
@@ -69,14 +69,14 @@
                         promoting CAM’s mission and values to attract new members, supporters, and sponsors.
                     </p>
                 </div>
-                <div class="mb-5 md:mb-0">
+                <div class="mb-5 md:mb-0" data-aos="fade-right">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
                         <NuxtLink to="/project-detail/CAM" class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></NuxtLink>
                     </div>
                 </div>
             </div>
-            <div class="md:col-span-2">
+            <div class="md:col-span-2" data-aos="fade-up">
                 <img src="~/assets/images/projects/CAM/SuKienDongKhongLanh/8.jpg" alt="" class="md:pl-5 mb-5">
 
                 <video controls class="md:pl-5">

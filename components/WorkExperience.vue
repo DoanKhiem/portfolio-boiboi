@@ -1,6 +1,6 @@
 <template>
     <div class="bg-[#fff5f0cf] p-5 rounded-xl mt-5">
-        <h1 class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase mb-5">WORK EXPERIENCE</h1>
+        <h1 data-aos="fade-right" data-aos-offset="100" data-aos-easing="ease-in-sine" class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase mb-5">WORK EXPERIENCE</h1>
 
         <!-- <div
             class="space-y-8 relative before:absolute before:inset-0 before:ml-[0.6rem] before:-translate-x-px md:before:ml-[19rem] md:before:translate-x-0 before:top-4 before:h-[100% - 1rem] before:w-1 before:bg-gradient-to-b before:from-transparent before:bg-[#d7a947] before:to-transparent">
@@ -34,42 +34,42 @@
             <div class="absolute inset-y-0 left-1/3 md:w-1 bg-[#d7a947]"></div>
             <div class="absolute inset-y-0 left-2/3 md:w-1 bg-[#d7a947]"></div>
             <div class="md:col-span-1 px-5 pb-10 border-b-2 border-[#d7a947] md:border-b-0 md:pb-0">
-                <div class="inline-flex">
+                <div class="inline-flex" data-aos="zoom-out-up">
                     <img src="~/assets/images/star-6.png" alt="Image Avatar" class="w-4 h-4 mt-1">
                     <p class="text-white yeseva-one-font font-medium text-xl ml-2 md:min-h-24">MC for Mid-Autumn
                         Festival for children</p>
                 </div>
-                <div class="px-5">
+                <div class="px-5" data-aos="zoom-out-right">
                     <ul class="list-disc text-xl text-white md:min-h-72 mb-2 leading-8">
                         <li>Hosted and managed the event program, ensuring a lively and engaging atmosphere.</li>
                         <li>Hosted and managed the event program, ensuring a lively and engaging atmosphere.</li>
                     </ul>
                 </div>
-                <img src="~/assets/images/we-1.png" alt="Image Avatar" class="w-full object-cover ">
+                <img data-aos="zoom-out-up" src="~/assets/images/we-1.png" alt="Image Avatar" class="w-full object-cover ">
             </div>
             <div class="md:col-span-1 px-5 my-10 md:my-0 pb-10 border-b-2 border-[#d7a947] md:border-b-0 md:pb-0">
-                <div class="inline-flex">
+                <div class="inline-flex" data-aos="zoom-out-up">
                     <img src="~/assets/images/star-6.png" alt="Image Avatar" class="w-4 h-4 mt-1">
                     <p class="text-white yeseva-one-font font-medium text-xl ml-2 md:min-h-24">Forum host: Building
                         beautiful friendships, saying
                         no to school violence</p>
                 </div>
-                <div class="px-5">
+                <div class="px-5" data-aos="zoom-out-down">
                     <ul class="list-disc text-xl text-white md:min-h-72 mb-2 leading-8">
                         <li>Facilitated discussions on fostering positive relationships and raising awareness about
                             school violence prevention.</li>
                         <li>Collaborated with speakers and organizers to ensure a smooth and impactful event.</li>
                     </ul>
                 </div>
-                <img src="~/assets/images/we-2.png" alt="Image Avatar" class="w-full object-cover ">
+                <img data-aos="zoom-out-up" src="~/assets/images/we-2.png" alt="Image Avatar" class="w-full object-cover ">
             </div>
             <div class="md:col-span-1 px-5">
-                <div class="inline-flex">
+                <div class="inline-flex" data-aos="zoom-out-up">
                     <img src="~/assets/images/star-6.png" alt="Image Avatar" class="w-4 h-4 mt-1">
                     <p class="text-white yeseva-one-font font-medium text-xl ml-2 md:min-h-24">Character experience of a
                         PTP news program</p>
                 </div>
-                <div class="px-5">
+                <div class="px-5" data-aos="zoom-out-left">
                     <ul class="list-disc text-xl text-white md:min-h-72 mb-2 leading-8">
                         <li>Participated as a featured character, sharing personal stories and experiences that aligned
                             with the program's theme.</li>
@@ -77,7 +77,7 @@
                             speaking skills.</li>
                     </ul>
                 </div>
-                <img src="~/assets/images/we-3.png" alt="Image Avatar" class="w-full object-cover ">
+                <img data-aos="zoom-out-up" src="~/assets/images/we-3.png" alt="Image Avatar" class="w-full object-cover ">
             </div>
         </div>
 
@@ -88,12 +88,12 @@
 
         <div class="grid md:grid-cols-4 p-4 my-5">
             <div class="md:col-span-2">
-                <div class="bg-primary inline-flex rounded-full px-5 py-1">
+                <div class="bg-primary inline-flex rounded-full px-5 py-1" data-aos="flip-right">
                     <p class="text-white nunito-font font-bold text-xl">MC for closing ceremony of my school<br>Period:
                         May 2024
                     </p>
                 </div>
-                <div class="px-5">
+                <div class="px-5" data-aos="flip-left">
                     <ul class="list-disc text-xl leading-9 text-[#dbb055]">
                         <li>Hosted the event, creating an engaging and memorable experience for students and faculty.
                         </li>
@@ -107,9 +107,9 @@
                 </div>
             </div>
             <div class="md:col-span-2 relative mt-5 md:mt-0 mb-8 md:mb-0">
-                <img src="~/assets/images/we-4.png" alt="Image Avatar"
+                <img data-aos="zoom-in-up" src="~/assets/images/we-4.png" alt="Image Avatar"
                     class="md:w-3/5 w-4/5 object-cover transition-transform duration-300 hover:scale-105">
-                <img src="~/assets/images/we-5.png" alt="Image Avatar"
+                <img data-aos="zoom-in-up" src="~/assets/images/we-5.png" alt="Image Avatar"
                     class="md:w-2/4 w-3/5 object-cover absolute right-0 -bottom-20 md:bottom-0 transition-transform duration-300 hover:scale-105">
 
                 <img src="~/assets/images/star-yellow.png" alt="Image Avatar"
@@ -125,17 +125,17 @@
         </div>
 
         <div class="grid md:grid-cols-5 px-4">
-            <div class="md:col-span-2">
+            <div class="md:col-span-2" data-aos="fade-down-right">
                 <img src="~/assets/images/we-6.png" alt="Image Avatar"
                     class="w-full object-cover mb-5 md:mb-0 transition-transform duration-300 hover:scale-105">
 
             </div>
             <div class="md:col-span-3 md:pl-5">
-                <div class="bg-primary inline-flex rounded-full px-5 py-1 mb-5">
+                <div data-aos="fade-left" class="bg-primary inline-flex rounded-full px-5 py-1 mb-5">
                     <p class="text-white nunito-font font-bold text-xl">MC of the historical and cultural event at
                         school</p>
                 </div>
-                <div class="">
+                <div class="" data-aos="fade-down-left">
                     <p class="text-xl text-[#dbb055] leading-9">
                         As the MC for the Historical and Cultural event at school, I had the opportunity to lead a
                         meaningful program, connecting activities such as minigames, traditional costume presentations,

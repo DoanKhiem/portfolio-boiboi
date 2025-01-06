@@ -3,7 +3,7 @@
         <div class="flex mt-10 items-center">
             <img src="~/assets/images/projects/YEMUN/logo.jpg" alt="" class="w-16 md:w-24 rounded-full">
             <div class="ml-5">
-                <h1 class="abril-fatface-regular-font text-4xl md:text-5xl">Youth Empowerment Model United Nations </h1>
+                <h1 data-aos="flip-up" class="abril-fatface-regular-font text-4xl md:text-5xl">Youth Empowerment Model United Nations </h1>
                 <p class="mt-2 text-lg">
                     <a href="https://www.facebook.com/@official.yemun" target="_blank" class="inline-flex items-center">
                         Visit here
@@ -14,7 +14,7 @@
         </div>
         <div class="grid md:grid-cols-5 text-xl mt-5">
             <div class="md:col-span-3">
-                <div class="">
+                <div class="" data-aos="fade-down">
                     <h2 class="font-bold">Description:</h2>
                     <p>Established on August 28, 2018, Youth Empowerment Model United Nations - YE-MUN was among the
                         pioneering organizations in Phu Yen to aim at youth comprehensive development. With the
@@ -24,7 +24,7 @@
                         organization.
                     </p>
                 </div>
-                <div class="mt-5">
+                <div class="mt-5" data-aos="fade-down">
                     <h2 class="font-bold">Achievements:</h2>
                     <p>- Attracted more than 10,000 social followers and 9800 likes on fanpage.
                     </p>
@@ -37,7 +37,7 @@
                         MUN organizations in Vietnam, providing valuable experiences for the youth.
                     </p>
                 </div>
-                <div class="mt-5">
+                <div class="mt-5" data-aos="fade-down">
                     <h2 class="font-bold">My role:</h2>
                     <h3 class="mt-2"><i>Marketing Team Member</i></h3>
                     <p>- Promoted the event through various platforms, such as social media campaigns, posters, and
@@ -59,14 +59,14 @@
                         assigned topics.
                     </p>
                 </div>
-                <div class="mb-5 md:mb-0">
+                <div class="mb-5 md:mb-0" data-aos="fade-right">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
                         <NuxtLink to="/project-detail/YEMUN" class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></NuxtLink>
                     </div>
                 </div>
             </div>
-            <div class="md:col-span-2">
+            <div class="md:col-span-2" data-aos="fade-up">
                 <img src="~/assets/images/projects/YEMUN/6.jpg" alt="" class="md:pl-5 mb-5">
                 <img src="~/assets/images/projects/YEMUN/13.jpg" alt="" class="md:pl-5">
             </div>
