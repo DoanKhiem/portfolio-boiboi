@@ -1,6 +1,7 @@
 <template>
     <div class="bg-[#fff5f0cf] p-5 rounded-xl mt-5">
-        <h1 class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase mb-5">Education</h1>
+        <h1 data-aos="fade-right" data-aos-offset="100" data-aos-easing="ease-in-sine"
+            class="text-primary abril-fatface-regular-font text-5xl md:text-6xl uppercase mb-5">Education</h1>
         <!-- <div class="grid grid-cols-2">
         <div>
             <h2 class="pacifico-regular-font px-10 py-5 inline-block text-4xl bg-primary text-white rounded-full">2022 - Present</h2>
@@ -24,7 +25,7 @@
             class="space-y-8 relative before:absolute before:inset-0 before:ml-[0.6rem] before:-translate-x-px md:before:ml-[19rem] md:before:translate-x-0 before:top-4 before:h-[100% - 1rem] before:w-1 before:bg-gradient-to-b before:from-transparent before:bg-[#d7a947] before:to-transparent">
 
             <!-- Item #1 -->
-            <div class="relative">
+            <div class="relative" data-aos="fade-up" data-aos-offset="100" data-aos-easing="ease-in-sine">
                 <div class="md:flex items-center md:space-x-4 mb-3">
                     <div class="flex items-center space-x-4 md:space-x-2 md:space-x-reverse">
                         <!-- Icon -->
@@ -62,7 +63,7 @@
                 Member of the Standing Committee of the School Youth Union in 2023 and 2024
             </div> -->
 
-                <div class="px-5 ml-14 md:ml-[350px]">
+                <div data-aos="fade-left" data-aos-offset="100" data-aos-easing="ease-in-sine" class="px-5 ml-14 md:ml-[350px]">
                     <ul class="list-disc text-xl leading-10 italic">
                         <li>Social Specialization</li>
                         <li>GPA: 8.9/10 (top 3 in class)</li>

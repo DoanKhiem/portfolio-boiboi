@@ -3,7 +3,7 @@
         <div class="flex mt-10 items-center">
             <img src="~/assets/images/projects/XanhThienNguyen/logo.jpg" alt="" class="w-16 md:w-24 rounded-full">
             <div class="ml-5">
-                <h1 class="abril-fatface-regular-font text-4xl md:text-5xl">Xanh Thiện Nguyện</h1>
+                <h1 data-aos="flip-up" class="abril-fatface-regular-font text-4xl md:text-5xl">Xanh Thien Nguyen</h1>
                 <p class="mt-2 text-lg">
                     <a href="https://www.facebook.com/profile.php?id=61564482212954" target="_blank"
                         class="inline-flex items-center">
@@ -14,25 +14,25 @@
             </div>
         </div>
         <div class="grid md:grid-cols-5 text-xl mt-5">
-            <div class="md:col-span-2 order-2 md:order-1">
+            <div class="md:col-span-2 order-2 md:order-1" data-aos="fade-down">
                 <img src="~/assets/images/projects/XanhThienNguyen/1.jpg" alt="" class="md:pr-5 mb-5">
                 <img src="~/assets/images/projects/XanhThienNguyen/4.jpg" alt="" class="md:pr-5">
             </div>
             <div class="md:col-span-3 order-1 md:order-2">
-                <div class="">
+                <div class="" data-aos="fade-up">
                     <h2 class="font-bold">Description:</h2>
-                    <p><b>Xanh Thiện Nguyện Project</b> is a charity organization established by young people in Phu
+                    <p><b>Xanh Thien Nguyen Project</b> is a charity organization established by young people in Phu
                         Yen. The
                         primary activities of the organization focus on environmental protection and community support.
                         One of their main initiatives is organizing beach clean-ups at popular tourist beaches in Phu
                         Yen, helping to preserve the natural beauty of the region and raise awareness about
                         environmental issues. Additionally, the project organizes charitable trips to provide support
                         for children in remote mountainous areas, offering educational materials, supplies, and
-                        organizing fun activities to brighten their lives. Through these actions, Xanh Thiện Nguyện
+                        organizing fun activities to brighten their lives. Through these actions, Xanh Thien Nguyen
                         Project aims to promote kindness, environmental responsibility, and a spirit of giving within
                         the local community.</p>
                 </div>
-                <div class="mt-5">
+                <div class="mt-5" data-aos="fade-up">
                     <h2 class="font-bold">Achievements:</h2>
                     <p>- Featured on Vietnam National Television (VTV) for beach cleanup campaigns, highlighting the
                         organization’s impactful environmental work.
@@ -46,7 +46,7 @@
                         the organization.
                     </p>
                 </div>
-                <div class="mt-5">
+                <div class="mt-5" data-aos="fade-up">
                     <h2 class="font-bold">My role:</h2>
                     <p>- Developed and oversaw the content strategy to ensure it aligns with the organization's goals
                         and vision.
@@ -59,7 +59,7 @@
                         organization’s brand identity over time.
                     </p>
                 </div>
-                <div class="mb-5 md:mb-0">
+                <div class="mb-5 md:mb-0" data-aos="fade-left">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
                         <NuxtLink to="/project-detail/XanhThienNguyen" class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></NuxtLink>

@@ -1,11 +1,11 @@
 <template>
     <div class=" mx-auto py-5 px-4">
         <div class=" text-white">
-            <h2 class=" abril-fatface-regular-font text-5xl md:text-6xl uppercase text-primary text-center mb-5">HEALING
+            <h2 data-aos="zoom-in" class=" abril-fatface-regular-font text-5xl md:text-6xl uppercase text-primary text-center mb-5">HEALING
                 BOXES</h2>
 
             <div class="grid grid-cols-2 md:grid-cols-3 gap-5">
-                <div v-for="item in arrayBoxs" :key="item.id" class="flex">
+                <div v-for="item in arrayBoxs" :key="item.id" class="flex" data-aos="zoom-out-down">
                     <div @click="openModal(item.id)"
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-8 border-primary p-5 text-center cursor-pointer w-full">
                         <!-- <img class="transition-transform duration-300 hover:scale-105" src="~/assets/images/gift-card.png" alt=""> -->
@@ -40,10 +40,10 @@
             </button>
             <img class="w-24 mx-auto transition-transform duration-300 hover:scale-105"
                 src="~/assets/images/gift-card.png" alt="">
-            <h1 class="text-xl text-primary font-bold text-center my-3">/ {{ box.title }} /</h1>
-            <h1 class="text-lg font-bold text-center font-dancing drop-shadow-lg ">From: {{ box.from }} <span
+            <h1 data-aos="flip-down" class="text-xl text-primary font-bold text-center my-3">/ {{ box.title }} /</h1>
+            <h1 data-aos="flip-down" class="text-lg font-bold text-center font-dancing drop-shadow-lg ">From: {{ box.from }} <span
                     v-if="box.from_position">({{ box.from_position }})</span></h1>
-            <p class="my-5" v-html="box.content"></p>
+            <p class="my-5" v-html="box.content" data-aos="zoom-out"></p>
 
         </div>
     </div>
