@@ -63,7 +63,7 @@
                 Member of the Standing Committee of the School Youth Union in 2023 and 2024
             </div> -->
 
-                <div data-aos="fade-left" data-aos-offset="100" data-aos-easing="ease-in-sine" class="px-5 ml-14 md:ml-[350px]">
+                <div data-aos="fade-right" data-aos-offset="100" data-aos-easing="ease-in-sine" class="px-5 ml-14 md:ml-[350px]">
                     <ul class="list-disc text-xl leading-10 italic">
                         <li>Social Specialization</li>
                         <li>GPA: 9.2/10 (top 3 in class)</li>

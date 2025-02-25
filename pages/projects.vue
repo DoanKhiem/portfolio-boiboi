@@ -9,14 +9,12 @@
 
             <a-carousel arrows>
                 <template #prevArrow>
-                    <div class="custom-slick-arrow" style="left: 10px; z-index: 1">
-                        <!-- <left-circle-outlined /> -->
+                    <div class="custom-slick-arrow left-2">
                         <LeftOutlined />
                     </div>
                 </template>
                 <template #nextArrow>
-                    <div class="custom-slick-arrow" style="right: 10px">
-                        <!-- <right-circle-outlined /> -->
+                    <div class="custom-slick-arrow right-2">
                         <RightOutlined />
                     </div>
                 </template>
@@ -51,6 +49,7 @@ import YEMUN from '~/components/projects/YEMUN.vue';
 }
 
 :deep(.slick-arrow.custom-slick-arrow) {
+    display: none !important;
     margin-right: -150px;
     margin-left: -150px;
     width: 50px;
@@ -61,6 +60,12 @@ import YEMUN from '~/components/projects/YEMUN.vue';
     transition: ease all 0.3s;
     /* opacity: 0.3; */
     z-index: 1;
+}
+
+@media (min-width: 1024px) {
+    :deep(.slick-arrow.custom-slick-arrow) {
+        display: block !important;
+    }
 }
 
 :deep(.slick-arrow.custom-slick-arrow:before) {

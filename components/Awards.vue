@@ -65,7 +65,7 @@
                 (2024)
             </div> -->
 
-            <div data-aos="fade-left" data-aos-offset="100" data-aos-easing="ease-in-sine" class="mx-auto ml-14 md:ml-[350px]">
+            <div data-aos="fade-right" data-aos-offset="100" data-aos-easing="ease-in-sine" class="mx-auto ml-14 md:ml-[350px]">
                 <ul class="list-disc text-xl leading-10 italic">
                     <li>Third Prize, City-Level English Competition (2023-2024)</li>
                     <li>Second Prize, "An Toan Giao Thong Cho Nu Cuoi Ngay Mai" Traffic Safety Competition (2023-2024)

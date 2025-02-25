@@ -69,7 +69,7 @@
                     <p class="text-white yeseva-one-font font-medium text-xl ml-2 md:min-h-24">Character experience of a
                         PTP news program</p>
                 </div>
-                <div class="px-5" data-aos="zoom-out-left">
+                <div class="px-5" data-aos="zoom-out-right">
                     <ul class="list-disc text-xl text-white md:min-h-72 mb-2 leading-8">
                         <li>Participated as a featured character, sharing personal stories and experiences that aligned
                             with the program's theme.</li>
@@ -93,7 +93,7 @@
                         May 2024
                     </p>
                 </div>
-                <div class="px-5" data-aos="flip-left">
+                <div class="px-5" data-aos="flip-right">
                     <ul class="list-disc text-xl leading-9 text-[#dbb055]">
                         <li>Hosted the event, creating an engaging and memorable experience for students and faculty.
                         </li>
@@ -131,11 +131,11 @@
 
             </div>
             <div class="md:col-span-3 md:pl-5">
-                <div data-aos="fade-left" class="bg-primary inline-flex rounded-full px-5 py-1 mb-5">
+                <div data-aos="fade-right" class="bg-primary inline-flex rounded-full px-5 py-1 mb-5">
                     <p class="text-white nunito-font font-bold text-xl">MC of the historical and cultural event at
                         school</p>
                 </div>
-                <div class="" data-aos="fade-down-left">
+                <div class="" data-aos="fade-down-right">
                     <p class="text-xl text-[#dbb055] leading-9">
                         As the MC for the Historical and Cultural event at school, I had the opportunity to lead a
                         meaningful program, connecting activities such as minigames, traditional costume presentations,

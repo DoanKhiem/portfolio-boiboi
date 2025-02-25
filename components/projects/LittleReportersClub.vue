@@ -21,12 +21,12 @@
                         Activity Center, is a platform for young people passionate about journalism. The club operates
                         under the motto "Skilled – Confident – Dynamic – Principled," helping members develop journalism
                         skills and represent the voices of children and society.
-                    <div class="mt-5"></div>
+                    <div class="mt-5">
                     The club regularly organizes practical activities such as article writing, fieldwork, and
                     participation in social programs, demonstrating a sense of community responsibility. Currently, the
                     club is recruiting members with a passion for writing, a thirst for learning, and an interest in
                     journalism.
-
+                    </div>
                     </p>
                 </div>
                 <div class="mt-5" data-aos="fade-down">

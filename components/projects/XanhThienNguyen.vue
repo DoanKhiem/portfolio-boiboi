@@ -59,7 +59,7 @@
                         organization’s brand identity over time.
                     </p>
                 </div>
-                <div class="mb-5 md:mb-0" data-aos="fade-left">
+                <div class="mb-5 md:mb-0" data-aos="fade-right">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
                         <NuxtLink to="/project-detail/XanhThienNguyen" class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></NuxtLink>

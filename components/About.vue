@@ -37,7 +37,7 @@
                     </p>
                 </div>
             </div>
-            <div class="relative md:p-10 mt-20 md:mt-0" data-aos="fade-left">
+            <div class="relative md:p-10 mt-20 md:mt-0" data-aos="fade-right">
                 <img src="~/assets/images/loop-red.png" alt="Image Avatar" class="absolute -top-14 md:-top-24 right-0 w-2/3 -z-10">
                 <img src="~/assets/images/avt-3.png" alt="Image Avatar"
                     class="w-full object-cover rounded-lg mb-4 transition-transform duration-300 hover:scale-105">

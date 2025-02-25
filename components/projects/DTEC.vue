@@ -27,10 +27,10 @@
                         club regularly organizes extracurricular activities, cultural events, and artistic programs,
                         providing opportunities for members to showcase their talents and enhance their English
                         proficiency.
-                    <div class="mt-5"></div>
+                    <div class="mt-5">
                     DTEC is not only a place for learning but also an environment for students to connect, gain
                     experiences, and achieve holistic development, contributing to the creation of a positive and
-                    creative student community.
+                    creative student community.</div>
                     </p>
                 </div>
                 <div class="mt-5" data-aos="fade-up">
@@ -56,7 +56,7 @@
                     <p>- Interacted with participants, sponsors, and other attendees to ensure a positive experience.
                     </p>
                 </div>
-                <div class="mb-5 md:mb-0" data-aos="fade-left">
+                <div class="mb-5 md:mb-0" data-aos="fade-right">
                     <div
                         class="rounded-2xl text-primary bg-[#f9f6dc] border-primary py-1 px-3 cursor-pointer inline-block mt-5">
                         <NuxtLink to="/project-detail/DTEC" class="cinzel-decorative-font font-bold text-xl inline-flex items-center">See More <RightOutlined class="text-base ml-1" /></NuxtLink>
