@@ -18,7 +18,7 @@
                             <p>Projects</p>
                         </div>
                         <div data-aos="flip-down" class="text-center text-3xl md:text-5xl bg-[#954b58] py-5">
-                            <p>8.9</p>
+                            <p>9.2</p>
                             <p>GPA</p>
                         </div>
                         <div data-aos="flip-down" class="text-center text-3xl md:text-5xl bg-[#954b58] py-5">

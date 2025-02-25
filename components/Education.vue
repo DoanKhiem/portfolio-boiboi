@@ -14,7 +14,7 @@
     <div class="px-5">
         <ul class="list-disc text-xl leading-10 italic font-medium">
             <li>Social Specialization</li>
-            <li>GPA: 8.9/10 (top 3 in class)</li>
+            <li>GPA: 9.2/10 (top 3 in class)</li>
             <li>3rd place in English Excellent Students Contest 2023</li>
             <li>"Hoc sinh 3 Tot" Award (Excellent Student Award) 2023</li>
             <li>Member of the Standing Committee of the School Youth Union in 2023 and 2024</li>
@@ -51,7 +51,7 @@
                 Social Specialization
             </div>
             <div class="bg-white p-4 rounded border border-slate-200 text-slate-500 shadow ml-14 md:ml-[350px] mb-2">
-                GPA: 8.9/10 (top 3 in class)
+                GPA: 9.2/10 (top 3 in class)
             </div>
             <div class="bg-white p-4 rounded border border-slate-200 text-slate-500 shadow ml-14 md:ml-[350px] mb-2">
                 3rd place in English Excellent Students Contest 2023
@@ -66,7 +66,7 @@
                 <div data-aos="fade-left" data-aos-offset="100" data-aos-easing="ease-in-sine" class="px-5 ml-14 md:ml-[350px]">
                     <ul class="list-disc text-xl leading-10 italic">
                         <li>Social Specialization</li>
-                        <li>GPA: 8.9/10 (top 3 in class)</li>
+                        <li>GPA: 9.2/10 (top 3 in class)</li>
                         <li>3rd place in English Excellent Students Contest 2023</li>
                         <li>"Hoc sinh 3 Tot" Award (Excellent Student Award) 2023</li>
                         <li>Member of the Standing Committee of the School Youth Union in 2023 and 2024</li>
